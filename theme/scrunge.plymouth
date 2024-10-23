@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Scrunge
+Description=Catte.JPG
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/scrunge
+ScriptFile=/usr/share/plymouth/themes/scrunge/scrunge.script
